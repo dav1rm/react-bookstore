@@ -11,7 +11,7 @@ Node 8.10.0 or later on your local development machine
 
 ## Installing
 
-* After that you should clone this repository on your machine with the `git clone https://github.com/davir8/react-bookstore`;
+* After that you should clone this repository on your machine with the `git clone https://github.com/dav1rm/react-bookstore`;
 * Go to the project directory with the `cd react-bookstore` command;
 * After that install the project dependencies using `npm install` or` yarn install`;
 * Now run the project using `npm start` or `yarn start`;
